@@ -1,7 +1,7 @@
 Wordpress Slim framework plugin
 ===============================
 
-I built this plugin from a need of using a micro framework as Slim but inside Wordpress.
+	I built this plugin from a need of using a micro framework as Slim but inside Wordpress.
 
 Installation
 ------------
